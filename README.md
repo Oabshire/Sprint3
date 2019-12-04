@@ -1,4 +1,4 @@
 # Sprint3
-<br/>Строитель Objective-C \n
-<br/>Строитель Swift \n
-<br/>Абстрактная фабрика Swift \n
+<br/>Строитель Objective-C
+<br/>Строитель Swift 
+<br/>Абстрактная фабрика Swift 
